@@ -6,10 +6,7 @@ The **Band Name Generator** is a fun Python program that helps you create a uniq
 - User-friendly input prompts.
 - Generates a band name by combining the user's city and pet name.
 
-## Demo
-Check out a live demo of the Band Name Generator: [Demo Link](https://your-demo-link.com)
-
-## Example
+## Preview
 ```bash
 Welcome to the Band Name Generator.
 Which city did you grow up in?
